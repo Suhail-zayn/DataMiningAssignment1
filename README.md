@@ -42,3 +42,11 @@ A synthetic dataset containing 100 student records with the following attributes
 - Recall
 - F1-score
 
+=======
+# DataMiningAssignment1
+Decision Tree Classification
+
+### How to Run
+```bash
+pip install -r requirements.txt
+python main.py
